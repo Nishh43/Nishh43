@@ -24,3 +24,6 @@ You'll find my thoughts and expertise encapsulated in the pages of my books, pro
 
 ## 🌐 Let's Connect & Collaborate
 I'm on a mission to connect with like-minded professionals who share a passion for data and technology. Whether it's collaborating on projects, sharing insights, or contributing to the ongoing narrative of innovation in Data Science, I'm eager to be part of the conversation. Feel free to reach out for discussions, collaborations, or just to geek out about the fascinating world of data! 🚀
+- LinkedIn: [Nishtha Nagar](https://www.linkedin.com/in/nishtha-nagar-228220262/)
+- Leetcode: [Nish43](https://leetcode.com/Nish43/)
+- Hackerrank: [mailnishthi](https://www.hackerrank.com/profile/mailnishthi)
