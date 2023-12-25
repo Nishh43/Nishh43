@@ -8,7 +8,7 @@ I'm Nishtha, a passionate Data Analyst and Author thriving in the dynamic realm 
 - **Database:** MySQL, SQLite 🗃️
 - **Data Visualisation Tools:** Tableau, MS Excel 📊📈
 - **Python Data Visualization Libraries:** NumPy, Pandas, Seaborn, Matplotlib 📊📈
-- **Other Tools:** Google Colab, MS Office, PyCharm, Jupyter, Slack 🛠️📚
+- **Other Tools:** Google Colab, MS Office, Jupyter, Slack 🛠️📚
 
 ## My Recent Blog Posts 
 - [Python for ETL in the Modern Data Stack: The Ultimate Guide](https://www.projectpro.io/article/python-etl/942)
