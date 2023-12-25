@@ -5,5 +5,7 @@ Programming Languages: Python, SQL
 Database: MySQL 
 Data Visualisation Tools: Tableau, MS Excel 
 Python Data Visualization Libraries: NumPy, Pandas, Seaborn, Matplotlib 
-Other Tools: Google Colab, MS Office,PyCharm, Jupyter, Slack
+Other Tools: Google Colab, MS Office,PyCharm, Jupyter, Slack 
+
+
 
