@@ -10,7 +10,16 @@ I'm Nishtha, a passionate Data Analyst and Author thriving in the dynamic realm 
 - **Python Data Visualization Libraries:** NumPy, Pandas, Seaborn, Matplotlib 📊📈
 - **Other Tools:** Google Colab, MS Office, Jupyter, Slack 🛠️📚
 
-## My Recent Blog Posts 
+## My Projects
+- **Machine Learning Project:** Customer Churn Prediction on a Telecom Dataset
+- **Big Data Project:** SQL Data Analysis Using Oracle Database
+- Market Basket Analysis Using Python 
+- Customer Purchase Data Analysis
+- Netflix Movies Dataset Analysis Using Python
+- Aerofit - Descriptive Statistics & Probability
+- Walmart : Confidence Interval and CLT 
+
+## My Recent Technical Blog Posts 
 - [Python for ETL in the Modern Data Stack: The Ultimate Guide](https://www.projectpro.io/article/python-etl/942)
 - [10 Best Python Machine Learning Libraries for Data Wizards](https://www.projectpro.io/article/python-machine-learning-libraries/934)
 - [Must-Have SQL Skills in the Data Ecosystem for 2024](https://www.projectpro.io/article/sql-skills/928)
