@@ -14,10 +14,11 @@ I'm Nishtha, a passionate Data Analyst and Author thriving in the dynamic realm 
 - **Machine Learning Project:** Customer Churn Prediction on a Telecom Dataset
 - **Big Data Project:** SQL Data Analysis Using Oracle Database
 - Market Basket Analysis Using Python 
-- Customer Purchase Data Analysis
-- Netflix Movies Dataset Analysis Using Python
+- Analyzing Customer Buying Behavior Using SQL for an E-commerce Tech Giant
+- Data Analysis Using Python on a Major OTT Platform - Netflix
+- Strategic Inventory Optimization through Correlation-Based Analysis - Yulu Case Study
 - Aerofit - Descriptive Statistics & Probability
-- Walmart : Confidence Interval and CLT 
+- Walmart : Confidence Interval and CLT
 
 ## My Recent Technical Blog Posts 
 - [Python for ETL in the Modern Data Stack: The Ultimate Guide](https://www.projectpro.io/article/python-etl/942)
