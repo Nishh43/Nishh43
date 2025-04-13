@@ -42,4 +42,4 @@ I'm on a mission to connect with like-minded professionals who share a passion f
 - LinkedIn: [Nishtha Nagar](https://www.linkedin.com/in/nishtha-nagar-228220262/)
 - Leetcode: [Nish43](https://leetcode.com/Nish43/)
 - Hackerrank: [mailnishthi](https://www.hackerrank.com/profile/mailnishthi)
-- **YouTube:** [Data Science With Nish](https://www.youtube.com/@datasciencewithnish)  
+- YouTube:[Data Science With Nish](https://www.youtube.com/@datasciencewithnish)  
