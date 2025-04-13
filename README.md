@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Nishtha - Professional Data Analyst | Blogger | Author 📊💻📚
+# 👋 Hello! I'm Nishtha - Professional Data Analyst | Blogger | Author | YouTuber 📊💻📚
 
 ## About Me
 I'm Nishtha, a passionate Data Analyst and Author thriving in the dynamic realm of technology. My journey in the tech space is not just about code and queries; it's about transforming raw data into compelling narratives and insights. 📊💡Check out my video to know more about me - [My Video](https://drive.google.com/file/d/1y0xaaCan1O5EpXnJE1Vp6hPTxPJ7uZ2y/view?usp=sharing) 
